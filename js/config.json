@@ -17,6 +17,13 @@
             "type": "milkshake-type ice-cream",
             "ingredients": ["Peach Syrup", "Mango Chucks", "Vanilla Base"],
             "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 220,
+            "type": "ice-cream",
+            "ingredients": ["Strawberry Syrup", "Rainbow Sprinkles", "Vanilla Base"],
+            "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/strawberry-sprinkle.svg"
         }
     ]
 }
