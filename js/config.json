@@ -1,6 +1,6 @@
 {
     "companyName": "I-Scream Inc.",
-    "headOffice": "North Pole",
+    "headOffice": "Toronto",
     "established": 2024,
     "active": true,
     "topFlavors": [
@@ -22,7 +22,7 @@
             "name": "Strawberry Sprinkle",
             "calories": 220,
             "type": "ice-cream",
-            "ingredients": ["Strawberry Syrup", "Rainbow Sprinkles", "Vanilla Base"],
+            "ingredients": ["Strawberry Syrup", "Rainbow Sprinkles", "Chocolate Syrup", "Vanilla Base"],
             "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/strawberry-sprinkle.svg"
         }
     ]
