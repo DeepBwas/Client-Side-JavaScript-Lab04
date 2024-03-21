@@ -24,6 +24,20 @@
             "type": "milkshake-ice-cream",
             "ingredients": ["Strawberry Syrup", "Rainbow Sprinkles", "Chocolate Syrup", "Vanilla Base"],
             "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Green Goblin",
+            "calories": 280,
+            "type": "ice-cream",
+            "ingredients": ["Vanilla Base", "Vegetable Extract", "Gummy Bears", "Chocolate Chips"],
+            "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/ice-cream-xtra1.svg"
+        },
+        {
+            "name": "Butterscotch",
+            "calories": 240,
+            "type": "ice-cream",
+            "ingredients": ["Butter", "Vanilla Base", "Chocolate Chunks"],
+            "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/ice-cream-xtra2.svg"
         }
     ]
 }
