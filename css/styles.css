@@ -25,13 +25,15 @@ header p {
 section {
 	display: flex;
 	justify-content: space-between;
+	flex-wrap: wrap;
 	margin-bottom: 5rem;
 }
 section article {
 	border: 1px solid black;
 	box-shadow: 0 2px 14px grey;
 	padding: 2.5%;
-	width: 25%
+	width: 25%;
+	margin-bottom: 20px;
 }
 article img {
 	display: block;
