@@ -6,7 +6,7 @@ const section = document.querySelector("section");
 // Introducing JavaScript Object Notation (JSON): https://json.org/
 async function populate(){
     // STEP 4b: Store the URL of a JSON file in a variable
-    const url = "https://deepbwas.github.io/JS-Week-11-Class-Files/js/config.json";
+    const url = "https://deepbwas.github.io/Client-Side-JavaScript-Lab04/js/config.json";
     
     // STEP 5: Use the new URL to create a new request object
     const request = new Request(url);

@@ -9,35 +9,35 @@
             "calories": 200,
             "type": "ice-cream",
             "ingredients": ["Chocolate Syrup", "Peppermint", "Vanilla Base"],
-            "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/chocolate-mint.svg"
+            "image": "https://deepbwas.github.io/Client-Side-JavaScript-Lab04/images/chocolate-mint.svg"
         },
         {
             "name": "Peach Mango",
             "calories": 250,
             "type": "milkshake-type ice-cream",
             "ingredients": ["Peach Syrup", "Mango Chucks", "Vanilla Base"],
-            "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/peach-mango.svg"
+            "image": "https://deepbwas.github.io/Client-Side-JavaScript-Lab04/images/peach-mango.svg"
         },
         {
             "name": "Strawberry Sprinkle",
             "calories": 220,
             "type": "milkshake-ice-cream",
             "ingredients": ["Strawberry Syrup", "Rainbow Sprinkles", "Chocolate Syrup", "Vanilla Base"],
-            "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/strawberry-sprinkle.svg"
+            "image": "https://deepbwas.github.io/Client-Side-JavaScript-Lab04/images/strawberry-sprinkle.svg"
         },
         {
             "name": "Green Goblin",
             "calories": 280,
             "type": "ice-cream",
             "ingredients": ["Vanilla Base", "Vegetable Extract", "Gummy Bears", "Chocolate Chips"],
-            "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/ice-cream-xtra1.svg"
+            "image": "https://deepbwas.github.io/Client-Side-JavaScript-Lab04/images/ice-cream-xtra1.svg"
         },
         {
             "name": "Butterscotch",
             "calories": 240,
             "type": "ice-cream",
             "ingredients": ["Butter", "Vanilla Base", "Chocolate Chunks"],
-            "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/ice-cream-xtra2.svg"
+            "image": "https://deepbwas.github.io/Client-Side-JavaScript-Lab04/images/ice-cream-xtra2.svg"
         }
     ]
 }
