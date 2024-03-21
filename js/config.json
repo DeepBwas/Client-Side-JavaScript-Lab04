@@ -21,7 +21,7 @@
         {
             "name": "Strawberry Sprinkle",
             "calories": 220,
-            "type": "ice-cream",
+            "type": "milkshake-ice-cream",
             "ingredients": ["Strawberry Syrup", "Rainbow Sprinkles", "Chocolate Syrup", "Vanilla Base"],
             "image": "https://deepbwas.github.io/JS-Week-11-Class-Files/images/strawberry-sprinkle.svg"
         }
